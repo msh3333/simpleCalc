@@ -58,6 +58,7 @@ while True:
 
     else:
         print("Invalid Input")
+	print("코딩 힘들다.")
 
 
 
